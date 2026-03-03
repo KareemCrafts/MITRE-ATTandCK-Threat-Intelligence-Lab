@@ -1,7 +1,8 @@
 # Carbanak vs FIN7 — Threat Intelligence Comparison
 
 ## Side by Side Navigator Maps
-![Comparison](../Comparison/comparison-screenshot.png)
+<img width="2547" height="1523" alt="Screenshot 2026-03-03 190447" src="https://github.com/user-attachments/assets/05051ad3-35c0-428e-ad17-339579fda0b3" />
+
 
 ## Summary
 
