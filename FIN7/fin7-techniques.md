@@ -21,4 +21,4 @@ big game hunting operations.
 | T1486 | Data Encrypted for Impact (Darkside Ransomware) | Impact |
 
 ## ATT&CK Navigator Map
-![FIN7 Navigator Map](FIN7.svg)
+![FIN7 Navigator Map](_FIN7_G0046.svg)
