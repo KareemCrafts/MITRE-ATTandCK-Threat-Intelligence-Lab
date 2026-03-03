@@ -45,7 +45,7 @@ financial institutions.
 ![Carbanak](Carbanak/Carbanak.svg)
 
 ### FIN7
-![FIN7](_FIN7_G0046.svg)
+![FIN7](_FIN7_G0046)
 
 ## 🔗 References
 - [Carbanak — MITRE ATT&CK](https://attack.mitre.org/groups/G0008/)
