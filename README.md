@@ -53,21 +53,4 @@ financial institutions.
 - [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
 ```
 
-Commit changes
 
----
-
-## STEP 8: Final Check
-
-Your repo should now look like this:
-```
-✅ README.md — complete
-✅ Carbanak/
-    ✅ Carbanak.svg
-    ✅ carbanak-techniques.md
-✅ FIN7/
-    ✅ FIN7.svg
-    ✅ fin7-techniques.md
-✅ Comparison/
-    ✅ comparison-summary.md
-    ✅ comparison screenshot
